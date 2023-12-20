@@ -1,0 +1,12 @@
+/* src/components/ImageSlider.css */
+.image-slider-container {
+    width: 96%;
+    margin: 0 auto;
+  }
+  
+  .slider-image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  
